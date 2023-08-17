@@ -1,6 +1,6 @@
 # fatec
  Lista de projetos na FATEC
 
-Java
+<h2>Java</h2>
 <hr>
 https://github.com/arturxdking/java-lista-1
